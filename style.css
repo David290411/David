@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #cecece;
+}
+header{
+    width: 100%;
+    display: flex;
+    background-color: #f2eeff;
+    height: 100px;
+}
+.header_list{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    list-style: style none; 
+    gap: 40px;
+}
+.headser_item{
+    font-size: 24px;
+    margin-top: 20px;
+}
+.logo{
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 50px;
+    width: 1533px;
+    height: 618px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: ('../image/Rectangle.png');
+}
+.card{
+    width: 758px;
+    height: 618px;
+    background-color: #680099;
+    display: flex;
+    justify-content: center;
+    color: white;}
+.title{
+    text-align: center;
+    font-size: 64px;
+    line-height: 28px;
+    font-weight: 600px;
+    font-family: Manrope;
+}
+.text1{
+    width: 404px;
+    text-align: center;
+    font-size: 36px;
+    line-height: 28px;
+    font-weight: 400px;
+    font-family: Manrope;
+    line-height: 28px;
+}
+.text2{
+    width: 404px;
+    text-align: center;
+    font-size: 36px;
+    line-height: 28px;
+    font-weight: 400px;
+    font-family: Manrope;
+    line-height: 28px;
+}
